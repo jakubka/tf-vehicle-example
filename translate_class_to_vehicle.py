@@ -7,6 +7,7 @@ mapping = {
  'fire_engine': 'truck',
  'freight_car': 'train',
  'garbage_truck': 'truck',
+ 'harvester': 'harvester',
  'limousine': 'car',
  'minibus': 'bus',
  'moped': 'motorcycle',
